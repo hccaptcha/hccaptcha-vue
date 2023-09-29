@@ -1,0 +1,3 @@
+[submodule "packages/CaptchaBar/hccaptcha"]
+	path = packages/CaptchaBar/hccaptcha
+	url = git@codeup.aliyun.com:pdc/hccaptcha/frontend/hccaptcha.git
